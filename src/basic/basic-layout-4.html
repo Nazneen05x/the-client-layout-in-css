@@ -10,15 +10,19 @@
 
       body {
         margin: 0 auto;
-        padding: 1em;
-        gap: 0.5em;
+        /* padding: 1em; */
+        /* gap: 0.5em; */
+        gap: 5px;
+        row-gap: 5px;
+        padding: 10px;
         display: grid;
-        grid-template-columns: 2fr;
-        grid-template-rows: 1fr 1fr 25%;
+        grid-template-columns: 1fr 1fr 15%;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
         grid-template-areas:
-          "main main main "
-          "footer footer footer"
-          "header nav nav";
+          "header header nav"
+          "header header nav"
+          "main main footer"
+          "main main footer";
       }
 
       header {
