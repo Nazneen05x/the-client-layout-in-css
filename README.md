@@ -27,8 +27,6 @@ https://nazneen05x.github.io/the-client-layout-in-css/
 <ul>
         <li><strong>TOOLS:</strong></li>
         <li>VSCode</li>
-        <li> Foto collage (Gebruikt om moodboard maken)</li>
-         <li>Photoshop</li>
         <li>Pen & Papier</li>
         <li>Laptop</li>
 </ul>
